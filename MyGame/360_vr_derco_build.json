@@ -1,0 +1,17 @@
+{
+"companyName": "Cuasquen&&MediaArte",
+"productName": "GoogleVRDemo",
+"productVersion": "0.1",
+"dataUrl": "360_vr_derco_build.data.unityweb",
+"wasmCodeUrl": "360_vr_derco_build.wasm.code.unityweb",
+"wasmFrameworkUrl": "360_vr_derco_build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "360_vr_derco_build.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
